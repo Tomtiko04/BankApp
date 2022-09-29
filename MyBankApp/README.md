@@ -47,3 +47,7 @@ This is a banking app that allows you to make transaction:
 ## Author
 
 - Email - [ogunneyeoyinkansola@gmail.com]
+
+## Preview Link 
+
+- https://extraordinary-sunflower-ac6e23.netlify.app/
