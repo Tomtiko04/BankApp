@@ -19,7 +19,7 @@ This is a banking app that allows you to make transaction:
 
 ### Account / User 2
 
-- User1 : am
+- User1 : om
 - Pin : 2222
 
 ### Account / User 3
@@ -29,7 +29,7 @@ This is a banking app that allows you to make transaction:
 
 ### Account / User 4
 
-- User1 : ba
+- User1 : oa
 - Pin : 4444
 
 ### Account / User 5
