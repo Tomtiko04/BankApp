@@ -7,6 +7,10 @@ Thank you for checking out this git remote add origin https://github.com/Tomtiko
 This is a banking app that allows you to make transaction:
 - Bank Transfer to any of the users bellow
 - Request for Bank Loans
+- Show avaliable balance
+- Close Account
+- Programmatic logout
+- Sorting and filter functionality
 
 ## Acess the account
 
